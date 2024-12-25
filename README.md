@@ -64,12 +64,12 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot 2024-12-25 134421](https://github.com/user-attachments/assets/dd9868ec-535c-4e68-87b6-59d284b106a4)
+![Screenshot 2024-12-25 174023](https://github.com/user-attachments/assets/45f0fd8f-9ed7-483b-8ca9-6a79b18110f3)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-25 134441](https://github.com/user-attachments/assets/0964099f-739b-40ef-8ae5-13babc69b7e8)
+![Screenshot 2024-12-25 174119](https://github.com/user-attachments/assets/5439319d-61bf-4e24-ba67-91c64fa6cd78)
 
 **RESULT**
 
